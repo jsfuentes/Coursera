@@ -1,0 +1,63 @@
+Study Questions for Hicks:
+1) Hicks begins, as we have in this course, by thinking entirely about payments, and
+distinguishing spot from deferred (money from credit). By thinking of a pure credit
+payment system, he comes to the conclusion that the standard of value function of money
+is logically prior to the medium of payment function. He continues on to state that
+“metallic money, if it was to usable [as medium of payment], depended on a guarantee.
+In that respect, it does not differ so much from paper money as if often supposed.” What
+does this passage mean? Is he saying that metallic money is (at least in part) like a kind
+of high quality third party debt that can be used as offset in a pure credit payment
+system? (See p. 47)
+
+After discussing merchants of different specailities in a marketplace, Hicks shows they need 
+some way to agree upon an accounting system between these different merchants. Barter might work
+for one off trades, but multilateral trades would be so contrived in such a system. Gold/silver is
+a good use for this. Then the state steps in and provides assurances with coinage that the metals 
+possessing this stamp are of a certain quality, weight, etc. Before the quality and weight would have 
+to be tested at expense everytime the money was used for trading. But, can you really trust old age rulers?
+Really, metallic money's value depends on trust of the government that is the stated value. So even when
+people held physical gold in their hands, the use of money was at already based in part on trust of the 
+government. So in some ways it is like a third party debt that can be used as credit, because a source of the 
+value is a trust that not only the gold is the stated weight, but really that it is an acceptable form of payment
+and will continue to be so. So, its kind of like a third party debt that will be acceptable as a form of payment
+and will continue to be so. 
+
+
+2) Hicks moves on (as we have in this course) to the matter of price and market making
+institutions. On page 51, Hicks says that the rate of interest is like an exchange rate
+between one sector of the economy that uses a credit system of payment and another
+sector that uses a cash system of payment. What does he mean by this? Under what
+circumstances would payments flow across the sectors, so necessitating an exchange
+rate?
+
+Hicks describe merchants paying each other with bills or promises to pay, while the rest of the economy pays 
+with coins. If someone wants to interact with merchants and recieve money, they may accept a bill and then go 
+to a dealer. Or if a merchant wants to buy from the rest of the economy, they can trade their bills at the dealer.
+So in some ways it is like an exchange rate between these two worlds of finance. But by paying out cash now and 
+accepting a bill, the dealers are also giving a loan where the interest rate is basically the discount they bought 
+the bill at from its face value. This exchange rate values coins more than bills though the bills eventually become
+coins. 
+
+3) On page 55, Hicks suggests that we think of exchange dealers on the boundary of the two
+sectors as a kind of bank. He thinks of their essential function as discounting bills for
+cash, and notes that the scale of their operation is limited by their capital. How does the
+invention of bank notes, and then bank deposits transferable by check, relax that
+limitation? (Use balance sheets to help clarify his argument.)
+By accepting money for storage and safe keeping, a dealer can expand the scale of his operation using the desposits 
+as capital. Instead of paying for storage, the dealer can pay you for the ability to loan out your money while assuring
+you the money is safe and retrievable on demand. This dealer is doing the three fts of a bank: accepting deposits, 
+discounting bills, and making advances to customers. Even the 4th, providing a medium of payment.
+        Assets  | Liabilities
+Dealer +coins   | + deposits 
+
+Person -coins   |
+       +deposit |
+
+4) On page 58, Hicks talks about bank lending as “expansion on each side of its balancesheet.” What is it that
+disciplines this elasticity? What prevents the bank from expanding its balance sheet to infinity? 
+
+At any time, depositers can come ask for money. But, by a bank loaning it wont always have all the money. This
+means any bank is in a precarious situation at all times. The three ways to deal with this are: 1) law of large 
+numbers meaning independent events(that break down in crisis) of withdrawals and deposits are predictable 2) 
+hold reserve liquid deposits to cover fluctations 3) borrow from other banks. 2 is the only thing controllable 
+by a bank and it is meant to be kept high so the bank remains liquid. Infinite balance sheet would mean fragility.

@@ -1,0 +1,72 @@
+1) What is a cash commitment? What is meant by the “two-edged quality” of a cash
+commitment? What distinguishes robust from speculative from Ponzi finance?
+A cash commitment is a promise to pay cash at some future point and must be less than cash flows
+to meet the liquidity constraint. On the one hand, cash commitments provide a definite promise
+of value at some real point in the future. On the other hand, the commitments made could become
+impossible to meet and so create instability. There are two spectrums Minsky discusses: 
+First, he discussed robust to fragile finance. Robust is when cash flow far exceeds 
+commitments. Fragile is when cash commitments approach cash flows. 
+Second, he called hedge finance when cash flows could meet all foreseeable commitments. Speculative
+finance has commitments that could only be met by rolling over debts when they are due. And Ponzi 
+finance is when it is expected that both the principal and interest must be rolled over. 
+So, Hedge to Speculative to Ponzi is the same range as robust to fragile. 
+
+2) Henry Simons “good financial society” is certainly a system of robust finance, since
+there is no private debt at all. Sketch the balance sheet relationships (business,
+household, government) that would exist in such a world. In terms of our dichotomy
+between government bank and bankers bank, is this an extreme version of the
+government bank system?
+
+
+3) The Financial Instability Hypothesis suggests that there is a tendency for robust
+finance to give way to speculative and then Ponzi finance. Why? Why do people make
+cash commitments in the first place? Why do cash commitments that finance a profitable
+investment wind up relaxing future survival constraints?
+Expectations about the future financial system become embedded in financial agreements and 
+commitments. But, our expectation of the future inevitabilty diverges from the future reality.
+This is especially true when stability is long lasting and drives people to create 
+more and more speculative investments with thinner and thinner margins of safety. 
+But, investment and cash commitments are made in the first place because of an expectation 
+they will be profitable. That is they will produce cash flows that exceed the cash commitments 
+required to finance it over some time horizon. So investment financed by cash commitments can 
+make future cash flows more robust. 
+
+
+4) Minsky views the lender of last resort function as central to monetary policy. How
+does lender of last resort work (balance sheets please)? Why does it work to forestall an
+incipient crisis?
+As the market spirls upwards, the cash commitments of different agents become interwined. A failure
+to pay one cash commitment can cause that agent to fail to pay theirs in a spirl of liquidity problems.
+When the market tightens and no one is willing to loan money because of their own precarious 
+cash flow and cash commitment problem, the government can step in because it is qualitatively different.
+The government can issue loans in cash and product the cash out of thin air really. So it can let agents 
+meet their cash commitments without putting pressure on some other place in the system like a private loan 
+would. This allows people to meet their obiligations and avoid a cascading crisis. The government should 
+use its ability as lender of last resort to put a floor under the crashes and limits on the spirls up. 
+
+C1 +500 CASH                  | -1000 IOU(C2)
+   +1000 IOU next quarter(C4)
+C2 +1000 IOU(C1)              | -1000 IOU(C3)
+C3 +1000 IOU(C2)              | -1000 IOU next quarter(C4)
+   +1000 CASH
+C4 +1000 IOU next quarter(C3) | -1000 IOU next quarter(C1)
+
+In this example, C1 had a bad quarter and can't pay its IOU to C2. So C2 cant pay its IOU to C3. C1 asks C3
+for a loan, but C3 expects to have to pay all its available assets to C4 next quarter and is worried about 
+liquidity constaint. Espeically since C2 is apparently having problems with its assets. But, if the government
+stepped in, it could provide 500 CASH to C1 at a interest rate waiting for the IOU of C4 and allow everyone 
+to meet their obiligations!
+
+
+5) Minsky viewed the US in the 1970s as an “ailing bank”. Persistent negative cash
+flows at the international level led to persistent depreciation of the dollar and rising
+domestic inflation. What parts of this analysis carry over to the present day, and what
+parts do not?
+Well, the United States has continued to increase its trade defecit, but only by a relatively 
+little amount(2.5 T in, 2.1 T out). Inflation continues, but at only about 2% compared to the 
+massive 10% of concern to Minsky during the early 1970s. THe US dollar has remained the 
+reserve currency of the world, so some argument doesnt hold up. 
+Somehow, Reagan economics jacked up interest rates that make the dollar the reserve currency. And
+the economy surivied because of defecit spending. Government defecit spending though does not 
+provide a guartenee of refinancing that can allow borrowers and lenders to be confident enough 
+to make investments. 

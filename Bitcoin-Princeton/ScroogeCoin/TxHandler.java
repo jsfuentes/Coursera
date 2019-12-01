@@ -81,7 +81,6 @@ public class TxHandler {
             acceptedT.add(curT);
         }
 
-        //TODO: Add mutually valid checking
         Set<UTXO> consumedUTXOs = new HashSet<UTXO>();
         for(Transaction tx : acceptedT) {
             ArrayList<Transaction.Input> inputs = tx.getInputs();
